@@ -1,1 +1,1 @@
-This is for fun only
+Learning Git Basic
